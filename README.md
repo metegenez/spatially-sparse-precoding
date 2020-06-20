@@ -8,5 +8,8 @@ Millimeter wave (mmWave) communication systems have attracted significant intere
 ## Figures
 This repo produces Fig.3, Fig.4 and Fig.6 of the paper. 
 
+```
+O. E. Ayach, S. Rajagopal, S. Abu-Surra, Z. Pi and R. W. Heath, "Spatially Sparse Precoding in Millimeter Wave MIMO Systems," in IEEE Transactions on Wireless Communications, vol. 13, no. 3, pp. 1499-1513, March 2014, doi: 10.1109/TWC.2014.011714.130846.
+```
 
 
